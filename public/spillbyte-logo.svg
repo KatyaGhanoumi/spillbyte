@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title" viewBox="0 0 750 290">
+  <title id="title">Spillbyte</title>
+  <defs>
+    <clipPath id="y-clip">
+      <rect x="420" y="90" width="140" height="200"/>
+    </clipPath>
+  </defs>
+  <g fill="none" stroke="#F5EFE3" stroke-width="20" stroke-linejoin="round" stroke-linecap="butt">
+    <path d="M74 118 C68 104 58 100 46 100 C30 100 22 108 22 119 C22 133 34 138 48 142 C62 146 74 152 74 168 C74 182 64 190 48 190 C34 190 24 184 20 172"/>
+    <path d="M110 90 L110 270"/>
+    <path d="M110 120 C118 106 130 100 144 100 C168 100 182 120 182 145 C182 170 168 190 144 190 C130 190 118 184 110 170"/>
+    <path d="M218 90 L218 200"/>
+    <path d="M346 24 L346 200"/>
+    <path d="M346 120 C354 106 366 100 380 100 C404 100 418 120 418 145 C418 170 404 190 380 190 C366 190 354 184 346 170"/>
+    <g clip-path="url(#y-clip)">
+      <path d="M447 80 L497 186"/>
+      <path d="M533 80 L486 222 Q478 246 452 258"/>
+    </g>
+    <path d="M586 52 L586 168 Q586 190 610 190 L626 190"/>
+    <path d="M564 100 H622"/>
+    <path d="M658 142 H726 C726 116 712 100 692 100 C670 100 658 118 658 142 C658 168 672 190 694 190 C710 190 721 183 727 170"/>
+  </g>
+  <rect x="208" y="48" width="20" height="20" fill="#F5EFE3"/>
+  <g fill="#E4572E" stroke="#E4572E" stroke-width="2" stroke-linejoin="round">
+    <polygon points="250,24 274,24 269,200 255,200"/>
+    <polygon points="292,24 316,24 311,200 297,200"/>
+  </g>
+</svg>
