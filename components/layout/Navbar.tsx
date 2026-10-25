@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Navbar(){
     return (
         <header className="border-b border-border bg-background">
-            <nav className="mx-auto flex h-16 w-full max-w-[1560px] items-center justify-between px-6 sm:px-8 lg:px-10">
+            <nav className="mx-auto flex h-16 w-full max-w-[1440px] items-center justify-between px-6 sm:px-10 lg:px-16">
                 <Link href="/"  className="text-foreground">
                     <Image src="/spillbyte-logo.svg" alt="Spillbyte"
                         width={120}
